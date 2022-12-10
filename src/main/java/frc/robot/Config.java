@@ -7,17 +7,6 @@ package frc.robot;
 * set as comments uing a # symbol. Then when you need to use the you just uncomment. Doing the same
 * in Preferecnes is not an option. Preferecnes can still be used to make changes that need to be done
 * quickly. 
-*
-*<p>
-*<pre>
-* Changes ********************************************************************************************
-* Date          Ver.    BY      Description
-* Feb. 14, 2016 1.00    FWL     Initial submission
-*</pre>
-*<p>			 
-* @author Frank Larkin, FRC272 - Lansdale Buddhist Robotics  pafwl@aol.com
-* @version 1.00
-*   
 */
 
 
